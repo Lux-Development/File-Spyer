@@ -1,0 +1,8 @@
+C:\Users\super\source\repos\Spyer\Spyer\bin\Debug\Spyer.exe.config
+C:\Users\super\source\repos\Spyer\Spyer\bin\Debug\Spyer.exe
+C:\Users\super\source\repos\Spyer\Spyer\bin\Debug\Spyer.pdb
+C:\Users\super\source\repos\Spyer\Spyer\obj\Debug\Spyer.csproj.AssemblyReference.cache
+C:\Users\super\source\repos\Spyer\Spyer\obj\Debug\Spyer.csproj.SuggestedBindingRedirects.cache
+C:\Users\super\source\repos\Spyer\Spyer\obj\Debug\Spyer.csproj.CoreCompileInputs.cache
+C:\Users\super\source\repos\Spyer\Spyer\obj\Debug\Spyer.exe
+C:\Users\super\source\repos\Spyer\Spyer\obj\Debug\Spyer.pdb
